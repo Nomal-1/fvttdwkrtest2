@@ -2,12 +2,13 @@
   "id": "dungeonworld-ko",
   "title": "Dungeon World Complete Korean Translation",
   "description": "FVTT 던전월드 시스템의 완전 한글 번역 모듈입니다.",
-  "version": "1.0.0",
-  "license": "LICENSE",
+  "version": "#{VERSION}#",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12.331",
-    "maximum": "13"
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
   },
   "authors": [
     {
