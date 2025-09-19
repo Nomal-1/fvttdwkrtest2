@@ -30,7 +30,7 @@
       }
     ]
   },
-  "esmodules": ["dungeonworld-ko.js"],
+  "esmodules": ["dungeonworld-fr.js"],
   "styles": ["css/dungeonworld.css"],
   "languages": [
     {
